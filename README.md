@@ -28,11 +28,20 @@ This program allows you to register students, consult them, and perform CRUD ope
 
 ## Examples of use
 ### Register
-``` print("====== MENU ======")
-    print("-"*30)
-    print("1. Register student")
-    print("2. Show student list")
-    print("3. Search student")
-    print("4. Update student")
-    print("5. Delete student")
-    print("6. Exit")
+```
+print("====== MENU ======")
+print("1. Register student")
+print("2. Show student list")
+print("3. Search student")
+print("4. Update student")
+print("5. Delete student")
+print("6. Exit")
+------------------------------
+Enter the corresponding number (1-6): 1
+Enter the student name: yaila
+Enter the student age: 17
+Enter the student program: python
+Enter the student status (active/inactive): active
+------------------------------
+¡The student was added correctly!
+------------------------------
