@@ -27,7 +27,7 @@ This program allows you to register students, consult them, and perform CRUD ope
 - Exit the menu.
 
 ## Examples of use
-### Register
+### Register a student
 ```
 print("====== MENU ======")
 print("1. Register student")
