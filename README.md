@@ -27,3 +27,12 @@ This program allows you to register students, consult them, and perform CRUD ope
 - Exit the menu.
 
 ## Examples of use
+### Register
+``` print("====== MENU ======")
+    print("-"*30)
+    print("1. Register student")
+    print("2. Show student list")
+    print("3. Search student")
+    print("4. Update student")
+    print("5. Delete student")
+    print("6. Exit")
