@@ -1,5 +1,5 @@
 # These are the functions located in another file.
-from funciones import *
+from functions import *
 
 # Variables are defined for the operation of the program.
 list_student = []
