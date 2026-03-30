@@ -19,7 +19,7 @@ This program allows you to register students, consult them, and perform CRUD ope
   - Name: Student's name.
   - Age: Student's age.
   - Program: The program the student is enrolled in.
-  * Status: Whether the student is active or inactive in the program.
+  - Status: Whether the student is active or inactive in the program.
 - It allows you to print a list of all registered students.
 - Search for a student in the list by name.
 - Update a student's information.
