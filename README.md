@@ -15,11 +15,11 @@ This program allows you to register students, consult them, and perform CRUD ope
 - It's a console application.
 - It runs in Python through an interpreter (for example, Python 3).
 - It allows you to register students with the following variables:
- - ID: Student ID.
- - Name: Student's name.
- - Age: Student's age.
- - Program: The program the student is enrolled in.
- - Status: Whether the student is active or inactive in the program.
+  - ID: Student ID.
+  - Name: Student's name.
+  - Age: Student's age.
+  - Program: The program the student is enrolled in.
+  * Status: Whether the student is active or inactive in the program.
 - It allows you to print a list of all registered students.
 - Search for a student in the list by name.
 - Update a student's information.
